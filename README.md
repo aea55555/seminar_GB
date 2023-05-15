@@ -1,1 +1,1 @@
-# seminar_GB
+# seminar_GB (Вносим изменения)
